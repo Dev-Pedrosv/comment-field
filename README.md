@@ -1,4 +1,4 @@
-Confira a aplicação <a href="comment-field.netlify.app">AQUI.</a>
+Confira a aplicação <a href="https://comment-field.netlify.app/">AQUI.</a>
 
 
 # Getting Started with Create React App
